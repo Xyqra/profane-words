@@ -4,6 +4,11 @@
 
 I (maybe) added some words and so...
 
+- added conversion thing, lol. just run 
+```bash
+python convert_to_txt.py
+```
+
 ---
 
 A semi-comprehensive list of profanity in English.
