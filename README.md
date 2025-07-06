@@ -1,8 +1,14 @@
 # profane-words
 
+---
+
+I (maybe) added some words and so...
+
+---
+
 A semi-comprehensive list of profanity in English.
 
-[Donate](https://ko-fi.com/zacanger)
+[Donate](https://ko-fi.com/zacanger) (this is the link of the original Fork creator)
 
 ----
 
